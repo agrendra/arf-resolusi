@@ -1,0 +1,22 @@
+Teori Dasar Web Programming
+- Git & Github
+- Basic Terminal Usage
+- Data Structures & Algorithms
+  - Problem Solving
+  - Big-O & Time Complexity
+  - Rekursi
+  - Searching * Sorting
+- SOLID, KISS, & YAGNI (Cara penulisan yg baik)
+- Design Patterns
+- Licenses
+- Semantic Versioning
+- SSH
+- HTTP/S and APIs
+
+Frontend
+-
+-
+
+Backend
+-
+-
